@@ -20,7 +20,7 @@ This research was published in the International Journal of Advanced Research in
 
 **bash**
 Copy code
-git clone https://github.com/yourusername/abnormal-event-detection.git
+git clone https://github.com/nemaded/bnormal-event-detection.git
 cd abnormal-event-detection
 Install the required packages:
 
